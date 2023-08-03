@@ -1,0 +1,397 @@
+/*small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*common class*/
+	.c_padd {
+	    margin-bottom: 50px;
+	}
+/*header start*/
+	header{
+		padding-bottom: 0;
+	}
+	.logo {
+    width: 125px;
+	}
+	.c_h3{
+		font-size: 16px;
+	}
+	.c_h2{
+		font-size: 30px;
+	}
+	.c_p{
+		font-size: 16px;
+	}
+	.manu ul li a {
+	    padding: 0 0px 5px 2px !important;   
+	}
+/*	about us*/
+	.a-text {
+    text-align: center;
+    padding: 0;
+	}
+	.a_h3{
+		text-align: center;
+		font-size: 16px;
+	}
+	.a_p{
+		margin-right: 0;
+		font-size: 16px;
+		line-height: 24px;
+		margin-top: 0;
+	}
+	.a_h2{
+		margin-right: 0;
+		margin-top: 18px;
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.c_btn {
+    margin-top: 15px;
+	}
+	/*secvice start*/
+	.pdi {
+    padding-bottom: 8px;
+	}
+	.s_img img {
+    margin-left: 110px;
+	}
+	.s_h2{
+		margin-top: 10px;
+	}
+/*Other-Module-2 start*/	
+	.m_h2 {
+	    font-size: 40px;
+	    margin-bottom: 4px; 
+	}	
+	.m_p{
+	font-size: 16px;
+	}
+/*contant	*/
+	.con_h{
+	margin-left: 0;
+	}
+	.con_h2 {
+		font-size: 40px;
+    	padding: 5px 18px 8px 0;
+	}
+	.mrt {
+	    padding-top: 0px;
+	    font-size: 16px;
+	    line-height: 19px;
+	    margin-left: -15px;
+	    margin-right: 0;
+	    margin-top: -5px;
+	}
+	.mds{
+		font-size: 15px;
+	    margin-top: -25px;
+	    line-height: 19px;
+	    margin-left: -15px;
+	}	
+	.mrl{
+		margin-right: -12px;
+		margin-left: 2px;
+	}
+	.pr{
+		padding-right: 0;
+	}
+/*Pricing Table start*/
+	.prg-h2 {
+	    text-align: center;
+	    margin-bottom: 12px;
+        margin-left: -40px;
+    }
+	.pri_img{
+		width: 35px;
+		height: 35px;
+		margin-left: -40px;
+    	margin-top: 13px;
+	}	
+	.pri_h2 {
+	    font-size: 18px;
+	    margin-left: -25px;
+	    padding: 5px 0;
+	}
+	.pr-h2 {
+		font-size: 35px;
+		float: left;
+	    padding-left: 10px;
+	    padding-top: 10px;
+	}
+	.pr-h2 span {
+    font-size: 16px;
+	}
+	.bton {
+    margin-top: -5px;
+	}
+	.pdt {
+    padding-top: 0px;
+	}
+	.brd{
+    border-left: none;
+	}
+/*Spacer start*/
+	.spmt {
+    margin-top: 10px;
+	}
+	.sp2_t{
+    margin-left: 0px;
+    text-align: center;
+	}
+	.sp_h3 {
+	    padding-top: 10px;    
+	}
+	.sp_h2 {
+	    padding: 8px 0;
+	    font-size: 30px;
+	}	
+	.sp_p {
+    font-size: 16px;   
+	}
+	.spmrb{
+		margin-top: 340px;
+	}
+	.spmrt{
+		margin-top: -615px;
+	}
+
+
+
+
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*common class*/
+	.c_padd {
+    	margin-bottom: 80px;
+	}
+/*header start*/
+	header{
+		padding-bottom: 0;
+	}
+	.manu ul li a {
+	    padding: 0 0px 5px 2px !important;   
+	}
+/*	about us*/
+	.a-text {
+    text-align: center;
+    padding: 0 75px;
+	}
+	.a_h3{
+		text-align: center;
+	}
+	.a_p{
+		margin-right: 0;
+	}
+	.a_h2{
+		margin-right: 0;
+		margin-top: 18px;
+	}
+	.c_btn {
+    margin-top: 25px;
+	}
+	/*secvice start*/
+	.pdi {
+    padding-bottom: 8px;
+	}
+	.s_img img {
+    margin-left: 221px;
+	}
+/*Other-Module-2 start*/	
+	.m_h2 {
+	    font-size: 40px;
+	    margin-bottom: 4px; 
+	}	
+	.m_p{
+	font-size: 16px;
+	line-height: 21px;
+	}	
+/*contact*/
+	.con_h{
+	margin-left: 30px;
+	}
+	.con_h2 {
+    padding: 35px 18px 42px 0;
+	}
+	.mrt {
+        padding-top: 28px;
+	    padding-bottom: 15px;
+	    margin-right: 0;
+	    font-size: 25px;
+	    line-height: 22px;
+	    letter-spacing: -1px;
+	}
+	.mds{
+		font-size: 16px;
+	    margin-top: -30px;
+	    line-height: 22px;
+	}
+/*Pricing Table start*/
+	.prg-h2 {
+    text-align: center;
+    margin-bottom: 12px;
+    }
+	.pri_img{
+		width: 35px;
+		height: 35px;
+	}	
+	.pri_h2 {
+    font-size: 25px;
+    margin-left: -15px;
+    padding: 5px 0;
+	}
+	.pr-h2 {
+		float: left;
+        padding-left: 80px;
+    	padding-top: 38px;
+	}
+	.bton {
+    margin-top: 15px;
+	}
+	.pdt {
+    padding-top: 0px;
+	}
+	.brd {
+    border-left: none;
+	}
+/*Spacer start*/
+	.sp2_t{
+    margin-left: 0px;
+    text-align: center;
+	}
+
+	.sp_h3 {
+	    padding-top: 0px;    
+	}
+	.sp_h2 {
+    padding: 25px 0;
+	}
+	.spmrb{
+		margin-top: 575px;
+	}
+	.spmrt{
+		margin-top: -890px;
+	}
+		
+
+
+
+
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*common class*/
+	.c_padd{
+		margin-bottom: 80px;
+	}
+	/*header start*/
+	header{
+		padding-bottom: 0;
+	}
+	.manu ul li a {
+	    padding: 0 0px 5px 2px !important;   
+	}
+/*	about us*/
+	.a-text {
+    text-align: center;
+    padding: 0 160px;
+	}
+	.a_h3{
+		text-align: center;
+	}
+	.a_p{
+		margin-right: 0;
+	}
+	.a_h2{
+		margin-right: 0;
+		margin-top: 18px;
+	}
+	.c_btn {
+    margin-top: 25px;
+	}
+	/*secvice start*/
+	.pdi {
+    padding-bottom: 8px;
+	}
+	.s_img img {
+    margin-left: 132px;
+	}
+/*contant	*/
+	.con_h2 {
+    padding: 55px 18px 58px 0;
+	}
+	.mrt {
+	    padding-top: 18px;
+	    font-size: 30px;
+	    margin-right: 0;
+	}
+	.mds{
+		font-size: 20px;
+	    margin-top: -8px;
+	    line-height: 24px;
+	}
+/*Pricing Table start*/
+	.pri_img{
+		padding: 6px;
+	}	
+	.pri_h2 {
+    font-size: 19px;
+    margin-left: -15px;
+	}
+	.pr-h2 {
+    padding-top: 16px;
+	}
+	.bton {
+    margin-top: 15px;
+	}
+	.pdt {
+    padding-top: 0px;
+	}
+/*Spacer start*/
+	.sp_h3 {
+	    padding-top: 40px;    
+	}
+	.sp_h2 {
+    	padding: 20px 0;
+	}
+	.sp_p {
+    
+    	font-size: 18px;
+	}
+
+
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*Spacer start*/
+.sp_h3 {
+    padding-top: 80px;
+
+	}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1999.98px) {}
+
+/*Extra large devices (large desktops, 2000px and up)*/
+@media (min-width: 2000px) {}
